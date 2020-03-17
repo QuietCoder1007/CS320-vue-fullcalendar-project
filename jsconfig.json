@@ -1,0 +1,10 @@
+{
+    "include": [
+        "./src/App",
+        "./src/components/Agenda",
+        "./src/components/CommentsModal",
+        "./src/components/EventModal",
+        "./public/index.html",
+        "./node_modules"
+    ]
+}
