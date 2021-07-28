@@ -1,11 +1,12 @@
 # cal_app_main
-
-## Project setup
+Cancel changes
+## Setup Project
 ```
 npm install
+npm install vue
 ```
 
-### Compiles and hot-reloads for development
+### Compile and Run via a local and network connection
 ```
 npm run serve
 ```
